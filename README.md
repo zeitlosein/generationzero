@@ -1,0 +1,2 @@
+- Generation Zero landing page
+- Simple site built with HTML and CSS3
