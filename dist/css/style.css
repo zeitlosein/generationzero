@@ -9,7 +9,7 @@ body {
   content: "";
   height: 100vh;
   width: 100%;
-  background-image: url(images/band-1.jpg);
+  background-image: url(../images/band-1.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
