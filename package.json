@@ -3,9 +3,14 @@
   "version": "1.0.0",
   "description": "Generation Zero website",
   "main": "index.html",
+  "homepage": "https://zeitlosein.github.io/generationzero",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d"
   },
   "author": "Nikolas Smith",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
